@@ -1,4 +1,13 @@
+#!/usr/bin/python3
+"""
+pascal tringle
+"""
+
+
 def pascal_triangle(n):
+    """
+    0-main.py
+    """
     if n <= 0:
         return []
     triangle = []
